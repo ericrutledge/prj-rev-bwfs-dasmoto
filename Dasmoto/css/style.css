@@ -7,6 +7,9 @@ body{
 .brushes{
   background-color:mediumspringgreen;
 }
+.paint{
+  background-color:skyblue; 
+}
 h1{
   font-size:100px;
   background-image:url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
